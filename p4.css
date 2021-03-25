@@ -1,0 +1,17 @@
+table{
+    border-collapse: collapse;
+    width: 100%;
+    height: 150PX;
+}
+.header{
+    background-color: blue;
+}
+.header:hover{
+    background-color: blueviolet;
+}
+.rower:nth-child(even){
+    background-color: chartreuse;
+}
+.rower:hover:nth-child(even){
+    background-color: crimson;
+}

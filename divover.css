@@ -1,0 +1,23 @@
+div{
+    width:150px;
+    height: 150px;
+}
+.div1{
+    background-color: blue;
+    position:relative;
+    top: 280px;
+    left:40%
+}
+.div2{
+    background-color: blueviolet;
+    position:absolute;
+    left:80%;
+    bottom:90%;
+
+}
+.div3{
+    background-color:chartreuse;
+    position: absolute;
+    left:80%;
+    bottom:90%;
+}

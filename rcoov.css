@@ -1,0 +1,20 @@
+
+                    
+.header{
+    background-color:red;
+}
+.header:hover{
+    background-color: deepskyblue;
+}
+.rows{
+   background-color:red;
+   }
+   .rows:nth-child(even){
+    background-color: currentColor;
+}
+.rows:hover:nth-child(even){
+    background-color: brown;
+}
+.rows:hover:nth-child(odd){
+    background-color: darkblue;
+}

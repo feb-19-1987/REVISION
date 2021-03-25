@@ -1,0 +1,22 @@
+div{
+    width:150px;
+    height:150px;
+}
+.div1{
+    position: relative;
+    background-color: crimson;
+    top:150px;
+    left:20%;
+}
+.div2{
+    position: absolute;
+    left:80%;
+    background-color: darkblue;
+    bottom:60%;
+}
+.div3{
+    position: absolute;
+    left:80%;
+    background-color: rgb(102, 34, 7);
+    bottom:60%;
+}
